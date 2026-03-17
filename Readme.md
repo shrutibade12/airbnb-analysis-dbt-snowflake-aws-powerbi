@@ -30,6 +30,7 @@ _An end-to-end data analytics project that builds a scalable Airbnb analytics pi
 <h2><a class="anchor" id="architecture"></a>Architecture</h2>
 
 End-to-End Data Flow:
+```
 CSV Data
    │
    ▼
@@ -49,7 +50,7 @@ Gold Layer (Analytics Tables)
    │
    ▼
 Power BI Dashboard
-
+```
 ---
 <h2><a class="anchor" id="dataset"></a>Dataset</h2>
 
